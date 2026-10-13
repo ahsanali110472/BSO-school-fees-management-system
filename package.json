@@ -1,0 +1,75 @@
+{
+  "name": "school-management-system",
+  "version": "1.0.0",
+  "description": "School Management & Fee Management System",
+  "main": "electron/main.js",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently -k -n \"BACKEND,FRONTEND\" -c \"cyan,magenta\" \"npm run backend:dev\" \"npm run frontend:dev\"",
+    "desktop:dev": "concurrently -k -n \"BACKEND,FRONTEND,ELECTRON\" -c \"cyan,magenta,yellow\" \"npm run backend:dev\" \"npm run frontend:dev\" \"electron .\"",
+    "frontend:dev": "npm run dev --prefix frontend",
+    "frontend:build": "npm run build --prefix frontend",
+    "backend:dev": "npm run dev --prefix backend",
+    "backend:start": "npm start --prefix backend",
+    "seed": "npm run seed --prefix backend",
+    "electron:dev": "concurrently -k -s first \"npm run frontend:dev\" \"electron .\"",
+    "electron:start": "electron .",
+    "electron:build": "npm run frontend:build && electron-builder --win",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "school-management",
+    "fee-management",
+    "electron",
+    "react",
+    "express"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^9.1.2",
+    "cross-env": "^7.0.3",
+    "electron": "^34.3.0",
+    "electron-builder": "^25.1.8"
+  },
+  "build": {
+    "appId": "com.schoolsystem.bso",
+    "productName": "School Management System",
+    "directories": {
+      "output": "dist-electron"
+    },
+    "files": [
+      "electron/**/*",
+      "frontend/dist/**/*"
+    ],
+    "extraResources": [
+      {
+        "from": "backend",
+        "to": "backend",
+        "filter": [
+          "**/*",
+          "!**/*.md",
+          "!backend.log"
+        ]
+      },
+      {
+        "from": "resources/app.env",
+        "to": "app.env"
+      }
+    ],
+    "win": {
+      "target": [
+        "nsis"
+      ],
+      "executableName": "SchoolManagement"
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true,
+      "shortcutName": "School Management System",
+      "artifactName": "SchoolManagementSetup.${ext}"
+    }
+  }
+}

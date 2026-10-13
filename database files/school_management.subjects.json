@@ -1,0 +1,136 @@
+[{
+  "_id": {
+    "$oid": "6ab10271e720fef844200197"
+  },
+  "name": "English",
+  "code": "ENG",
+  "type": "theory",
+  "description": "",
+  "status": "active",
+  "createdAt": {
+    "$date": "2026-09-21T10:09:53.487Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-21T10:09:53.487Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ab10282e720fef84420019d"
+  },
+  "name": "SIndhi",
+  "code": "SIN",
+  "type": "theory",
+  "description": "",
+  "status": "active",
+  "createdAt": {
+    "$date": "2026-09-21T10:10:10.045Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-21T10:10:10.045Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ab1028ae720fef8442001a3"
+  },
+  "name": "Urdu",
+  "code": "URDU",
+  "type": "theory",
+  "description": "",
+  "status": "active",
+  "createdAt": {
+    "$date": "2026-09-21T10:10:18.879Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-21T10:10:18.879Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ab10297e720fef8442001a9"
+  },
+  "name": "Science",
+  "code": "SC",
+  "type": "both",
+  "description": "",
+  "status": "active",
+  "createdAt": {
+    "$date": "2026-09-21T10:10:31.759Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-21T10:10:31.759Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ab102a4e720fef8442001af"
+  },
+  "name": "Islamiyat",
+  "code": "IS",
+  "type": "theory",
+  "description": "",
+  "status": "active",
+  "createdAt": {
+    "$date": "2026-09-21T10:10:44.879Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-21T10:10:44.879Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ab102b6e720fef8442001b5"
+  },
+  "name": "Pakistan Studies",
+  "code": "PS",
+  "type": "theory",
+  "description": "",
+  "status": "active",
+  "createdAt": {
+    "$date": "2026-09-21T10:11:02.482Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-21T10:11:02.482Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ab102dce720fef8442001bb"
+  },
+  "name": "Computer",
+  "code": "COM",
+  "type": "both",
+  "description": "",
+  "status": "active",
+  "createdAt": {
+    "$date": "2026-09-21T10:11:40.175Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-21T10:11:40.175Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ab102e8e720fef8442001c1"
+  },
+  "name": "Math",
+  "code": "MA",
+  "type": "both",
+  "description": "",
+  "status": "active",
+  "createdAt": {
+    "$date": "2026-09-21T10:11:52.002Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-21T10:11:52.002Z"
+  },
+  "__v": 0
+}]

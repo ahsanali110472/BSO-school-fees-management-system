@@ -1,0 +1,7 @@
+database username
+ahsanalichandio843_db_user
+
+database password
+YbbVVNTz8PBOT31v
+
+mongodb+srv://ahsanalichandio843_db_user:YbbVVNTz8PBOT31v@cluster0.a0rzmyf.mongodb.net/

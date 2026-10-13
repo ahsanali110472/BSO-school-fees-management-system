@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "6ab103c5e720fef84420020f"
+  },
+  "academicSession": {
+    "$oid": "6ab10140e720fef8442000ba"
+  },
+  "class": {
+    "$oid": "6ab10165e720fef8442000c5"
+  },
+  "feeItems": [
+    {
+      "feeHead": {
+        "$oid": "6ab1033ae720fef8442001fc"
+      },
+      "amount": 8000,
+      "_id": {
+        "$oid": "6ab103c5e720fef844200210"
+      }
+    },
+    {
+      "feeHead": {
+        "$oid": "6ab1034ce720fef844200200"
+      },
+      "amount": 4000,
+      "_id": {
+        "$oid": "6ab103c5e720fef844200211"
+      }
+    },
+    {
+      "feeHead": {
+        "$oid": "6ab10365e720fef844200204"
+      },
+      "amount": 1000,
+      "_id": {
+        "$oid": "6ab103c5e720fef844200212"
+      }
+    }
+  ],
+  "totalMonthlyAmount": 4000,
+  "totalAnnualAmount": 0,
+  "totalOneTimeAmount": 8000,
+  "dueDayOfMonth": 10,
+  "gracePeriodDays": 5,
+  "lateFineType": "fixed",
+  "lateFineAmount": 200,
+  "status": "active",
+  "createdAt": {
+    "$date": "2026-09-21T10:15:33.345Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-21T10:15:33.345Z"
+  },
+  "__v": 0
+}]

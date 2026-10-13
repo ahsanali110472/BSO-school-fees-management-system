@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "6ab1037ee720fef844200208"
+  },
+  "name": "Discout For Poor Student",
+  "code": "DFPS",
+  "type": "percentage",
+  "value": 15,
+  "applicableFeeHeads": [],
+  "status": "active",
+  "createdAt": {
+    "$date": "2026-09-21T10:14:22.825Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-21T10:14:22.825Z"
+  },
+  "__v": 0
+}]

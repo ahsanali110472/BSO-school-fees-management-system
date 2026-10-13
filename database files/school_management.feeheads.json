@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "6ab1033ae720fef8442001fc"
+  },
+  "name": "Admission Fees",
+  "code": "ADM_FEES",
+  "type": "admission",
+  "frequency": "one_time",
+  "isRefundable": false,
+  "status": "active",
+  "createdAt": {
+    "$date": "2026-09-21T10:13:14.244Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-21T10:13:14.244Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ab1034ce720fef844200200"
+  },
+  "name": "Monthly",
+  "code": "MON",
+  "type": "tuition",
+  "frequency": "monthly",
+  "isRefundable": false,
+  "status": "active",
+  "createdAt": {
+    "$date": "2026-09-21T10:13:32.068Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-21T10:13:32.068Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ab10365e720fef844200204"
+  },
+  "name": "Exam Fees",
+  "code": "EXAM",
+  "type": "exam",
+  "frequency": "term",
+  "isRefundable": false,
+  "status": "active",
+  "createdAt": {
+    "$date": "2026-09-21T10:13:57.635Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-21T10:13:57.635Z"
+  },
+  "__v": 0
+}]

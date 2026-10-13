@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "6ab10140e720fef8442000ba"
+  },
+  "name": "2026-207",
+  "startDate": {
+    "$date": "2026-10-01T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-12-31T00:00:00.000Z"
+  },
+  "isCurrent": true,
+  "status": "active",
+  "createdAt": {
+    "$date": "2026-09-21T10:04:48.994Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-21T10:04:48.994Z"
+  },
+  "__v": 0
+}]

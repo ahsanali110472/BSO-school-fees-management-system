@@ -1,0 +1,187 @@
+[{
+  "_id": {
+    "$oid": "6ab10165e720fef8442000c5"
+  },
+  "name": "Play Group",
+  "code": "PG",
+  "order": 1,
+  "status": "active",
+  "description": "",
+  "createdAt": {
+    "$date": "2026-09-21T10:05:25.285Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-21T10:05:25.285Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ab10187e720fef8442000cc"
+  },
+  "name": "Nursery",
+  "code": "NS",
+  "order": 2,
+  "status": "active",
+  "description": "",
+  "createdAt": {
+    "$date": "2026-09-21T10:05:59.513Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-21T10:05:59.513Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ab1018ee720fef8442000d3"
+  },
+  "name": "KG",
+  "code": "KG",
+  "order": 3,
+  "status": "active",
+  "description": "",
+  "createdAt": {
+    "$date": "2026-09-21T10:06:06.929Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-21T10:06:06.929Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ab10195e720fef8442000da"
+  },
+  "name": "Class one",
+  "order": 4,
+  "status": "active",
+  "description": "",
+  "createdAt": {
+    "$date": "2026-09-21T10:06:13.840Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-21T10:06:22.285Z"
+  },
+  "__v": 0,
+  "code": "C1"
+},
+{
+  "_id": {
+    "$oid": "6ab101a9e720fef8442000e7"
+  },
+  "name": "Class Two",
+  "code": "C2",
+  "order": 5,
+  "status": "active",
+  "description": "",
+  "createdAt": {
+    "$date": "2026-09-21T10:06:33.203Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-21T10:06:41.319Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ab101bbe720fef8442000f4"
+  },
+  "name": "Class Three",
+  "code": "C3",
+  "order": 6,
+  "status": "active",
+  "description": "",
+  "createdAt": {
+    "$date": "2026-09-21T10:06:51.304Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-21T10:06:51.304Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ab101c5e720fef8442000fb"
+  },
+  "name": "Class Four",
+  "code": "C4",
+  "order": 7,
+  "status": "active",
+  "description": "",
+  "createdAt": {
+    "$date": "2026-09-21T10:07:01.631Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-21T10:07:01.631Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ab101d3e720fef844200102"
+  },
+  "name": "Class Five",
+  "code": "C5",
+  "order": 8,
+  "status": "active",
+  "description": "",
+  "createdAt": {
+    "$date": "2026-09-21T10:07:15.755Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-21T10:07:15.755Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ab101dde720fef844200109"
+  },
+  "name": "Class Six",
+  "code": "C6",
+  "order": 9,
+  "status": "active",
+  "description": "",
+  "createdAt": {
+    "$date": "2026-09-21T10:07:25.188Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-21T10:07:25.188Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ab101e6e720fef844200110"
+  },
+  "name": "Class Seven",
+  "code": "C7",
+  "order": 10,
+  "status": "active",
+  "description": "",
+  "createdAt": {
+    "$date": "2026-09-21T10:07:34.938Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-21T10:07:34.938Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ab101f1e720fef844200117"
+  },
+  "name": "Class Eigth",
+  "code": "C8",
+  "order": 11,
+  "status": "active",
+  "description": "",
+  "createdAt": {
+    "$date": "2026-09-21T10:07:45.835Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-21T10:07:45.835Z"
+  },
+  "__v": 0
+}]

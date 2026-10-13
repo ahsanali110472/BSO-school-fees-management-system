@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "6aae663f2617b29b0211317f"
+  },
+  "name": "Super Administrator",
+  "email": "superadmin@school.com",
+  "password": "$2b$10$22NoVZ3XXN0wiju5PuPhkOuEBvGuvP1mItarlR3p7i6v5wljSvvN.",
+  "role": "super_admin",
+  "status": "active",
+  "lastLogin": {
+    "$date": "2026-09-21T10:26:39.715Z"
+  },
+  "createdAt": {
+    "$date": "2026-09-19T10:38:55.297Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-21T10:26:39.717Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aafc64efab1dbec9166d50a"
+  },
+  "name": "Miss Moomal",
+  "email": "moomal@gmail.com",
+  "password": "$2b$10$rhrmdZMk0KssustCLlK59.974F88zxAdofHeq.rsUoWidm0NdJThW",
+  "role": "school_admin",
+  "status": "active",
+  "lastLogin": null,
+  "createdAt": {
+    "$date": "2026-09-20T11:41:02.561Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-20T11:41:02.561Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aafcbf90ae44b3a30f085cd"
+  },
+  "name": "School Administrator",
+  "email": "admin@school.com",
+  "password": "$2b$10$YLf0R6/DyWMqX5xwcUmooO9ObNgqQOKjZDNGc/pTTv1rH46Rs31we",
+  "role": "school_admin",
+  "status": "active",
+  "lastLogin": {
+    "$date": "2026-09-21T10:18:25.565Z"
+  },
+  "createdAt": {
+    "$date": "2026-09-20T12:05:13.621Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-21T10:18:25.566Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aafcbf90ae44b3a30f085d0"
+  },
+  "name": "Chief Accountant",
+  "email": "accountant@school.com",
+  "password": "$2b$10$tb.MDrlTFVWs5VoMhOuEqexdq5mYoUKjzH4gh7NzpVX3RfOi5janO",
+  "role": "accountant",
+  "status": "active",
+  "lastLogin": {
+    "$date": "2026-09-21T10:18:40.647Z"
+  },
+  "createdAt": {
+    "$date": "2026-09-20T12:05:13.762Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-21T10:18:40.648Z"
+  },
+  "__v": 0
+}]

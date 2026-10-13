@@ -1,0 +1,209 @@
+[{
+  "_id": {
+    "$oid": "6ab1020ce720fef844200129"
+  },
+  "name": "A",
+  "class": {
+    "$oid": "6ab10165e720fef8442000c5"
+  },
+  "capacity": 40,
+  "classTeacher": null,
+  "status": "active",
+  "createdAt": {
+    "$date": "2026-09-21T10:08:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-21T10:08:21.752Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ab1021ce720fef84420013a"
+  },
+  "name": "A",
+  "class": {
+    "$oid": "6ab10187e720fef8442000cc"
+  },
+  "capacity": 40,
+  "classTeacher": null,
+  "status": "active",
+  "createdAt": {
+    "$date": "2026-09-21T10:08:28.543Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-21T10:08:28.543Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ab10223e720fef844200143"
+  },
+  "name": "A",
+  "class": {
+    "$oid": "6ab1018ee720fef8442000d3"
+  },
+  "capacity": 40,
+  "classTeacher": null,
+  "status": "active",
+  "createdAt": {
+    "$date": "2026-09-21T10:08:35.748Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-21T10:08:35.748Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ab10229e720fef84420014c"
+  },
+  "name": "A",
+  "class": {
+    "$oid": "6ab10195e720fef8442000da"
+  },
+  "capacity": 40,
+  "classTeacher": null,
+  "status": "active",
+  "createdAt": {
+    "$date": "2026-09-21T10:08:41.264Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-21T10:08:41.264Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ab1022ee720fef844200155"
+  },
+  "name": "A",
+  "class": {
+    "$oid": "6ab101a9e720fef8442000e7"
+  },
+  "capacity": 40,
+  "classTeacher": null,
+  "status": "active",
+  "createdAt": {
+    "$date": "2026-09-21T10:08:46.750Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-21T10:08:46.750Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ab10234e720fef84420015e"
+  },
+  "name": "A",
+  "class": {
+    "$oid": "6ab101bbe720fef8442000f4"
+  },
+  "capacity": 40,
+  "classTeacher": null,
+  "status": "active",
+  "createdAt": {
+    "$date": "2026-09-21T10:08:52.302Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-21T10:08:52.302Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ab1023ae720fef844200167"
+  },
+  "name": "A",
+  "class": {
+    "$oid": "6ab101c5e720fef8442000fb"
+  },
+  "capacity": 40,
+  "classTeacher": null,
+  "status": "active",
+  "createdAt": {
+    "$date": "2026-09-21T10:08:58.753Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-21T10:08:58.753Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ab10241e720fef844200170"
+  },
+  "name": "A",
+  "class": {
+    "$oid": "6ab101d3e720fef844200102"
+  },
+  "capacity": 40,
+  "classTeacher": null,
+  "status": "active",
+  "createdAt": {
+    "$date": "2026-09-21T10:09:05.430Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-21T10:09:05.430Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ab10247e720fef844200179"
+  },
+  "name": "A",
+  "class": {
+    "$oid": "6ab101dde720fef844200109"
+  },
+  "capacity": 40,
+  "classTeacher": null,
+  "status": "active",
+  "createdAt": {
+    "$date": "2026-09-21T10:09:11.337Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-21T10:09:11.337Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ab1024ee720fef844200182"
+  },
+  "name": "A",
+  "class": {
+    "$oid": "6ab101e6e720fef844200110"
+  },
+  "capacity": 40,
+  "classTeacher": null,
+  "status": "active",
+  "createdAt": {
+    "$date": "2026-09-21T10:09:18.581Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-21T10:09:18.581Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ab10257e720fef84420018b"
+  },
+  "name": "A",
+  "class": {
+    "$oid": "6ab101f1e720fef844200117"
+  },
+  "capacity": 40,
+  "classTeacher": null,
+  "status": "active",
+  "createdAt": {
+    "$date": "2026-09-21T10:09:27.908Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-21T10:09:27.908Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,69 @@
+[{
+  "_id": {
+    "$oid": "6ab100a2e720fef84420009c"
+  },
+  "name": "Dua",
+  "phone": "03133429853",
+  "email": "dua@gmail.com",
+  "address": "Larkana",
+  "qualification": "Intermediate",
+  "joiningDate": {
+    "$date": "2026-09-21T10:02:10.216Z"
+  },
+  "photo": null,
+  "status": "active",
+  "createdAt": {
+    "$date": "2026-09-21T10:02:10.218Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-21T10:02:10.218Z"
+  },
+  "teacherId": "TCH-0001",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ab100dae720fef8442000a3"
+  },
+  "name": "Moomal",
+  "phone": "03337700535",
+  "email": "moomal@gmail.com",
+  "address": "Larkana",
+  "qualification": "BSC",
+  "joiningDate": {
+    "$date": "2026-09-21T10:03:06.812Z"
+  },
+  "photo": null,
+  "status": "active",
+  "createdAt": {
+    "$date": "2026-09-21T10:03:06.814Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-21T10:03:06.814Z"
+  },
+  "teacherId": "TCH-0002",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ab10113e720fef8442000aa"
+  },
+  "name": "Simra Shah",
+  "phone": "03333317722",
+  "email": "simra@gmail.com",
+  "address": "Larkana",
+  "qualification": "Intermediate",
+  "joiningDate": {
+    "$date": "2026-09-21T10:04:03.039Z"
+  },
+  "photo": null,
+  "status": "active",
+  "createdAt": {
+    "$date": "2026-09-21T10:04:03.041Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-21T10:04:03.041Z"
+  },
+  "teacherId": "TCH-0003",
+  "__v": 0
+}]
